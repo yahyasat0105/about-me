@@ -2,13 +2,11 @@
 # Hello, I'm Yahya Satria Nugraha
 <a href="https://linkedin.com/in/yahyasatrianugraha"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
+Brief Introduction
 Hello, I'm Satria. I am currently attending Monash University, pursuing a Master's degree in Cybersecurity. Currently, I am actively seeking my first job in the Jakarta area. My academic journey at Monash University has equipped me with comprehensive knowledge in cybersecurity practices, and I am eager to apply my skills in a professional setting. I am particularly interested in opportunities that allow me to contribute to securing digital environments and mitigating cyber threats.
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. In addition to my background in computer science, I hold a Bachelor's degree in Accounting, which has honed my analytical skills. 
 
